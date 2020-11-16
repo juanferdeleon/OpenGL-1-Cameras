@@ -1,4 +1,10 @@
-# Los shaders de OpenGL se escriben en un lenguaje de progra llamado GLSL
+'''
+
+        OpenGL 1: Cameras
+
+Juan Fernando De Leon Quezada
+
+'''
 
 vertex_shader = """
 #version 460

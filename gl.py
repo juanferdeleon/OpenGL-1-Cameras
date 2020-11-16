@@ -1,3 +1,11 @@
+'''
+
+        OpenGL 1: Cameras
+
+Juan Fernando De Leon Quezada
+
+'''
+
 from OpenGL.GL import *
 from OpenGL.GL.shaders import compileProgram, compileShader
 import glm
